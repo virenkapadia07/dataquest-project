@@ -25,3 +25,7 @@ This repository is a collection of my projects from [dataquest.io](https://dataq
 - `Project 5` : [Visualising the Gender Gap in College Degrees](https://github.com/dataquestio/solutions/blob/master/Mission149Solutions.ipynb)
 
     Use of matplotlib to explore gender gap in college degrees using effective data visualisation. This project is focused primarily on the aesthetics of the plots.
+	
+- `Project 6` : [Clean And Analyze Employee Exit Surveys](https://github.com/dataquestio/solutions/blob/master/Mission348Solutions.ipynb)
+
+	Working with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
